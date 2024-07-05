@@ -29,10 +29,6 @@ I got my Ph.D. degree in Atmospheric Science from University of California, Davi
 --->
 
 # 📝 Publications 
-<!---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
---->
 
 - [Higher-order Internal Modes of Variability Imprinted in Observed Year-to-year California Streamflow Changes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
@@ -46,12 +42,7 @@ I got my Ph.D. degree in Atmospheric Science from University of California, Davi
   - The meteorological drivers are identified for extreme precpitation events (p95) for each subregion. 
   - The interaction effects of these meteorological drivers on EPE probability are analyzed. 
 
-<!---
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
---->
+
 - [Using Temporal Deep Learning Models to Estimate Daily Snow Water Equivalent Over the Rocky Mountains](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035009)
 **Shiheng Duan**, Paul Ullrich, Mark Risser, Alan Rhoades
   - LSTM, TCNN and Transformer models are benchmarked with in-situ snow observations. 
@@ -64,14 +55,20 @@ I got my Ph.D. degree in Atmospheric Science from University of California, Davi
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06* UC Davis Summer GSR Award. 
+- *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. 
+- *2016.06* Beijing Normal University Second Prize Scholarship
 
 # 📖 Educations
 - *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💬 Talks
-- *2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.06*, Detection of Anthropogenic Signals in Western US Snowpack Changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
+- *2021.12*, A Comprehensive Investigation of Machine Learning Models for Estimating Daily Snow Water Equivalent over the Western US. AGU fall meeting. New Orleans, LA. 
+
+# 🎹 Life
+
+My piano [video](https://www.bilibili.com/video/BV1Je411W7L7/?spm_id_from=333.999.0.0) when I was 12 year-old. 
+
 
