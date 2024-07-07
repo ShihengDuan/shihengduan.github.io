@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher in Lawrence Livermore National Laboratory. My research focus on the hydroclimate system, including climate change impacts, detection and attribution. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution.
 
-I got my Ph.D. degree in Atmospheric Science from University of California, Davis, where I worked on hydroclimate prediction and projection with deep learning models. 
+I got my Ph.D. in Atmospheric Science from University of California, Davis, where I specialized in hydroclimate prediction and projection using deep learning models. 
 
 
 <!---
@@ -33,7 +33,7 @@ I got my Ph.D. degree in Atmospheric Science from University of California, Davi
 - [Higher-order Internal Modes of Variability Imprinted in Observed Year-to-year California Streamflow Changes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
-  - All the models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
+  - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability, as a technical note. 
   - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
 
