@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution.
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution. 
 
-I got my Ph.D. in Atmospheric Science from University of California, Davis, where I specialized in hydroclimate prediction and projection using deep learning models. 
+I got my Ph.D. in Atmospheric Science from University of California, Davis, where I specialized in hydroclimate prediction and projection using deep learning models. I earned my Bachelor's degree in Environmental Engineering from Beijing Normal University, with a focus on air pollution studies. 
 
 
 <!---
@@ -30,11 +30,11 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 
 # 📝 Publications 
 
-- [Higher-order Internal Modes of Variability Imprinted in Observed Year-to-year California Streamflow Changes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
+- [Higher-order Internal Modes of Variability Imprinted in Observed Year-to-year California Streamflow Changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
-  - BCSD does not change variability, as a technical note. 
+  - BCSD does not change variability indices, as a technical note. 
   - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
 
 - [Meteorological Drivers of North American Monsoon Extreme Precipitation Events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
