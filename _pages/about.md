@@ -72,6 +72,6 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 
 # 🎹 Life
 
-My wedding [video] (https://www.bilibili.com/video/BV1ht421b7GN/?spm_id_from=333.337.search-card.all.click), 2023 Christmas. 
+My wedding [video](https://www.bilibili.com/video/BV1ht421b7GN/?spm_id_from=333.337.search-card.all.click), 2023 Christmas. 
 
 My piano [video](https://www.bilibili.com/video/BV1Je411W7L7/?spm_id_from=333.999.0.0) when I was 12 year-old. 
