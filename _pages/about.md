@@ -28,34 +28,40 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 --->
 
-# 📝 Publications 
+# 📝 Publications (First Author)
 
-- [Higher-order Internal Modes of Variability Imprinted in Observed Year-to-year California Streamflow Changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
+- [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability indices, as a technical note. 
   - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
 
-- [Meteorological Drivers of North American Monsoon Extreme Precipitation Events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
+- [Meteorological drivers of North American monsoon extreme precipitation events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
 **Shiheng Duan**, Paul Ullrich, William Boos
   - North American Monsoon area is delineated from a gridded precpitation dataset, and further divded into seven subregions with distinct precipitation characteristics. 
   - The meteorological drivers are identified for extreme precpitation events (p95) for each subregion. 
   - The interaction effects of these meteorological drivers on EPE probability are analyzed. 
   - [GitHub](https://github.com/ShihengDuan/NorthAmericanMonsoon)
 
-- [Using Temporal Deep Learning Models to Estimate Daily Snow Water Equivalent Over the Rocky Mountains](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035009)
+- [Using temporal deep learning models to estimate daily snow water equivalent over the Rocky Mountains](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035009)
 **Shiheng Duan**, Paul Ullrich, Mark Risser, Alan Rhoades
   - LSTM, TCNN and Transformer models are benchmarked with in-situ snow observations. 
   - A transformation (SWE to SWE ratio) is applied to extrapolate the DL models to generate gridded SWE estimations. 
   - This technique can be used for climate projections (deleted after peer-review). 
   - [GitHub](https://github.com/ShihengDuan/code-SWE)
 
-- [Using Convolutional Neural Networks for Streamflow Projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu
+- [Using convolutional neural networks for streamflow projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu
   - TCNN can be used for hydrological modelling, in addition to LSTM. 
   - An idealized test is designed for projection purpose. 
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
+
+# 📝 Publications (Co-Author)
+- [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
+
+- [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Hua, Shenbing, et al. 2016
+
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
@@ -64,6 +70,7 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 
 # 📖 Educations
 - *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
+- *2016.08 - 2016.12*, Exchange student in University of Oklahoma. 
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💬 Talks
