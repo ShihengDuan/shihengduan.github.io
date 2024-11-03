@@ -28,7 +28,7 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 --->
 
-# 📝 Publications (First Author)
+# 📝 Publications
 
 - [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
@@ -57,10 +57,24 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
 
-# 📝 Publications (Co-Author)
+- [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta
+  - Storyline simulation of heatwave using NeuralGCM and E3SM. 
+  - Compare and evaluate NeuralGCM's ability for storyline analyses. 
+  - Under review. 
+  
+---
+- [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
+  - How do we evaluate AI-based climate models? 
+  - Overview paper under review. 
+
 - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
+  - Storyline simulation with E3SM. 
+  - The double tropical cyclone is a unique and interesting feature for the 2023 extreme precipitation event. 
+  - Under review
 
 - [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Hua, Shenbing, et al. 2016
+  - A comprehensive emission inventory of air pollutants. 
+  - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
 
 
 # 🎖 Honors and Awards
@@ -70,7 +84,7 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 
 # 📖 Educations
 - *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
-- *2016.08 - 2016.12*, Exchange student in University of Oklahoma. 
+- *2016.08 - 2016.12*, CSC Exchange student in University of Oklahoma. 
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💬 Talks
