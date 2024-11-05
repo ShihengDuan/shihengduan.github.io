@@ -57,20 +57,10 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
 
-- [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta
-  - Storyline simulation of heatwave using NeuralGCM and E3SM. 
-  - Compare and evaluate NeuralGCM's ability for storyline analyses. 
-  - Under review. 
-  
 ---
 - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
   - How do we evaluate AI-based climate models? 
   - Overview paper under review. 
-
-- [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
-  - Storyline simulation with E3SM. 
-  - The double tropical cyclone is a unique and interesting feature for the 2023 extreme precipitation event. 
-  - Under review
 
 - [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Hua, Shenbing, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
