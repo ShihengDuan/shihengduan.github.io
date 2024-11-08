@@ -57,14 +57,19 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
 
----
+- [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Hua, Shenbing, et al. 2016
+  - A comprehensive emission inventory of air pollutants. 
+  - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
+
+* in preparation
+- [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
+  - Storyline simulation using regional-refined model for Beijing storm 2023
+  - The double tropical cyclone is a unique feature. 
+
 - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
   - How do we evaluate AI-based climate models? 
   - Overview paper under review. 
 
-- [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Hua, Shenbing, et al. 2016
-  - A comprehensive emission inventory of air pollutants. 
-  - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
 
 
 # 🎖 Honors and Awards
