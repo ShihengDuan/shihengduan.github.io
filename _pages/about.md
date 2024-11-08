@@ -62,13 +62,13 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
   - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
 
 * in preparation
-- [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
-  - Storyline simulation using regional-refined model for Beijing storm 2023
-  - The double tropical cyclone is a unique feature. 
+  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
+    - Storyline simulation using regional-refined model for Beijing storm 2023
+    - The double tropical cyclone is a unique feature. 
 
-- [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
-  - How do we evaluate AI-based climate models? 
-  - Overview paper under review. 
+  - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
+    - How do we evaluate AI-based climate models? 
+    - Overview paper under review. 
 
 
 
