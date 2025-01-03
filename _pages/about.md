@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
 
-I got my Ph.D. in Atmospheric Science from University of California, Davis, where I specialized in hydroclimate prediction and projection using deep learning models. I earned my Bachelor's degree in Environmental Engineering from Beijing Normal University, with a focus on air pollution studies. 
 
+# 📖 Educations
+- *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
+- *2016.08 - 2016.12*, Exchange student in University of Oklahoma. 
+- *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 <!---
 # 🔥 News
@@ -62,14 +65,17 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
   - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
 
 * in preparation
-  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Zhang, Jishi, et al. 2024
+  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2024
     - Storyline simulation using regional-refined model for Beijing storm 2023
     - The double tropical cyclone is a unique feature. 
 
-  - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Ullrich, Paul A., et al. 2024
+  - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
     - How do we evaluate AI-based climate models? 
     - Overview paper under review. 
 
+  - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
+    - Can we use AI-climate model to conduct storyline simulations? 
+    - Rejected by PNAS. Let's see where it goes. 
 
 
 # 🎖 Honors and Awards
@@ -77,14 +83,12 @@ I got my Ph.D. in Atmospheric Science from University of California, Davis, wher
 - *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. 
 - *2016.06* Beijing Normal University Second Prize Scholarship
 
-# 📖 Educations
-- *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
-- *2016.08 - 2016.12*, CSC Exchange student in University of Oklahoma. 
-- *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
+
 
 # 💬 Talks
 - *2024.06*, Detection of Anthropogenic Signals in Western US Snowpack Changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
 - *2021.12*, A Comprehensive Investigation of Machine Learning Models for Estimating Daily Snow Water Equivalent over the Western US. AGU fall meeting. New Orleans, LA. 
+
 
 # 🎹 Life
 
