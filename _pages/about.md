@@ -70,12 +70,12 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - The double tropical cyclone is a unique feature. 
 
   - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
-    - How do we evaluate AI-based climate models? 
-    - Overview paper under review. 
+    - How do we evaluate AI-based Earth system models? 
+    - Overview paper in revison. 
 
   - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
     - Can we use AI-climate model to conduct storyline simulations? 
-    - Rejected by PNAS. Let's see where it goes. 
+    - Rejected. Let's see where it goes. 
 
 
 # 🎖 Honors and Awards
