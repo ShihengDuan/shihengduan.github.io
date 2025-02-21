@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection, and attribution. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
 
 
 # 📖 Educations
 - *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
-- *2016.08 - 2016.12*, Exchange student in University of Oklahoma. 
+- *2016.08 - 2016.12*, Exchange student, University of Oklahoma. 
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💼 Work Experience
-- *2022.09 - current*, Postdoctoral researcher 
-- *2017.09 - 2022.08*, Graduate student researcher 
+- *2022.09 - current*, Postdoctoral researcher @ LLNL
+- *2017.09 - 2022.08*, Graduate student researcher @ UC Davis 
 
 <!---
 # 🔥 News
@@ -78,8 +78,8 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Overview paper in revison. 
 
   - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
-    - Can we use AI-climate model to conduct storyline simulations? 
-    - Rejected. Let's see where it goes. 
+    - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"? 
+    - Rejected. Let's see where it goes. A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
 
 
 # 🎖 Honors and Awards
