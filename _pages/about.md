@@ -81,7 +81,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"? 
     - Rejected. Let's see where it goes. A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
   
-  - [Towards enhanced detectability of forced signals in monthly rainfall changes] Shiheng Duan, et al. 2025
+  - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from ForceSMIP. 
     - Submitted. 
