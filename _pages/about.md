@@ -80,7 +80,11 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
     - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"? 
     - Rejected. Let's see where it goes. A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
-
+  
+  - [Towards enhanced detectability of forced signals in monthly rainfall changes] Shiheng Duan, et al. 2025
+    - Detect forced precipitation changes without any spatial or temporal aggregation. 
+    - Work from ForceSMIP. 
+    - Submitted. 
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
