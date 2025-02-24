@@ -36,6 +36,9 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 --->
 
 # 📝 Publications
+- [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
+    - How do we evaluate AI-based Earth system models? 
+    - Overview paper accepted. 
 
 - [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
@@ -72,10 +75,6 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2024
     - Storyline simulation using regional-refined model for Beijing storm 2023
     - The double tropical cyclone is a unique feature. 
-
-  - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
-    - How do we evaluate AI-based Earth system models? 
-    - Overview paper in revison. 
 
   - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
     - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"? 
