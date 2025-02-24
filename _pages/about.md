@@ -36,11 +36,11 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 --->
 
 # 📝 Publications
-- [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
+- [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2025
   - How do we evaluate AI-based Earth system models? 
   - Overview paper accepted. 
 
-- [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
+- [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
@@ -48,20 +48,20 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
 
 - [Meteorological drivers of North American monsoon extreme precipitation events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
-**Shiheng Duan**, Paul Ullrich, William Boos
+**Shiheng Duan**, Paul Ullrich, William Boos. 2024
   - North American Monsoon area is delineated from a gridded precpitation dataset, and further divded into seven subregions with distinct precipitation characteristics. 
   - The meteorological drivers are identified for extreme precpitation events (p95) for each subregion. 
   - The interaction effects of these meteorological drivers on EPE probability are analyzed. 
   - [GitHub](https://github.com/ShihengDuan/NorthAmericanMonsoon)
 
 - [Using temporal deep learning models to estimate daily snow water equivalent over the Rocky Mountains](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035009)
-**Shiheng Duan**, Paul Ullrich, Mark Risser, Alan Rhoades
+**Shiheng Duan**, Paul Ullrich, Mark Risser, Alan Rhoades. 2024
   - LSTM, TCNN and Transformer models are benchmarked with in-situ snow observations. 
   - A transformation (SWE to SWE ratio) is applied to extrapolate the DL models to generate gridded SWE estimations. 
   - This technique can be used for climate projections (deleted after peer-review). 
   - [GitHub](https://github.com/ShihengDuan/code-SWE)
 
-- [Using convolutional neural networks for streamflow projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu
+- [Using convolutional neural networks for streamflow projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu. 2020
   - TCNN can be used for hydrological modelling, in addition to LSTM. 
   - An idealized test is designed for projection purpose. 
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
