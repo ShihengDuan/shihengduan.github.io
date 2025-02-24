@@ -37,8 +37,8 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 # 📝 Publications
 - [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://arxiv.org/abs/2410.19882) Paul Ullrich, et al. 2024
-    - How do we evaluate AI-based Earth system models? 
-    - Overview paper accepted. 
+  - How do we evaluate AI-based Earth system models? 
+  - Overview paper accepted. 
 
 - [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
