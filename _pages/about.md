@@ -68,7 +68,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
-  - More inventory and air pollution studies from Prof. Tian's team in Beijing Normal University. 
+  - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University. 
 {: reversed="reversed"}
 
 * in preparation
@@ -82,7 +82,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
-    - Work from ForceSMIP. 
+    - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
     - Submitted. 
 
 # 🎖 Honors and Awards
