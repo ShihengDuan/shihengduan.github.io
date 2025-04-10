@@ -37,7 +37,8 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 # 📝 Publications
 1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
-  - How do we evaluate AI-based Earth system models?  
+  - How do we evaluate ML-based Earth system models?  
+  - More detailed following studies. 
 
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
@@ -75,15 +76,17 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2024
     - Storyline simulation using regional-refined model for Beijing storm 2023
     - The double tropical cyclone is a unique feature. 
+    - Under Review
 
   - [AI-based climate model evaluation through the lens of heatwave storylines](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
-    - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"? 
-    - Rejected. Let's see where it goes. A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
+    - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"?
+    -  A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
+    - Under Review. 
   
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
-    - Submitted. 
+    - Under Review. 
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
