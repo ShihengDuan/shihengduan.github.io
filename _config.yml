@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiheng Duan"
   avatar           : "images/avatar.png"
-  bio              : "Climate Scientist"
+  bio              : "Lawrence Livermore National Laboratory"
   location         : "Dublin, California"
-  employer         : "Lawrence Livermore National Laboratory"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en&oi=ao"
   email            : "shiduan@ucdavis.edu"
