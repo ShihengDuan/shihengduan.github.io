@@ -90,7 +90,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
-- *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. $3000 for research expenses (got a GPU on Tempest) and $1000 personal stipend.  
+- *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. \$3000 for research expenses (got a GPU on Tempest) and \$1000 personal stipend.  
 - *2016.06* Beijing Normal University Second Prize Scholarship
 
 
