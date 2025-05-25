@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, exploring climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. I have been actively publishing in peer-reviewed journals, with a <a href='https://scholar.google.com/citations?user=9sZtqZkAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a>. 
 
 
 # 📖 Educations
@@ -45,7 +45,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability indices, as a technical note. 
-  - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
+  - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow); citations: <span class='show_paper_citations' data='OymODQIAAAAJ:Se3iqnhoufwC'></span>
 
 1. [Meteorological drivers of North American monsoon extreme precipitation events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
 **Shiheng Duan**, Paul Ullrich, William Boos. 2024
