@@ -45,7 +45,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability indices, as a technical note. 
-  - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow); citations: <span class='show_paper_citations' data='OymODQIAAAAJ:Se3iqnhoufwC'></span>
+  - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
 
 1. [Meteorological drivers of North American monsoon extreme precipitation events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
 **Shiheng Duan**, Paul Ullrich, William Boos. 2024
