@@ -14,17 +14,24 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-    - name: Run
+    - name: Run citation fetch and push results
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
+
+        # 创建目标目录并复制结果文件
+        mkdir -p ../google-scholar-stats
+        cp ./results/*.json ../google-scholar-stats/
+
+        # 推送 json 到 google-scholar-stats 分支
+        cd ../google-scholar-stats
         git init
         git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
-        git commit -m "Updated Citation Data"
+        git commit -m "Update scholar stats"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
