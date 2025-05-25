@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. I have been actively publishing in peer-reviewed journals, with a <a href='https://scholar.google.com/citations?user=9sZtqZkAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a>. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
 
 
 # 📖 Educations
