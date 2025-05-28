@@ -78,15 +78,15 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - The double tropical cyclone is a unique feature. 
     - Under Review
 
-  - [Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
-    - Can we use AI-climate model to conduct storyline simulations? How do we "nudge"?
-    -  A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
+  - [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
+    - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
+    - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
     - In Revision. 
   
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). An overview/description paper of ForceSMIP is in preparation. 
-    - Under Review. 
+    - Revision. 
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
