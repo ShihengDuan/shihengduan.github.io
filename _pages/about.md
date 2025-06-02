@@ -36,9 +36,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 --->
 
 # 📝 Publications
-1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
-  - How do we evaluate ML-based Earth system models?  
-  - More detailed following studies. 
+## First-Author
 
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
@@ -68,6 +66,10 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
 {: reversed="reversed"}
 ## Co-Author
+1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
+  - How do we evaluate ML-based Earth system models?  
+  - More detailed following studies. 
+
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
   - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University. 
