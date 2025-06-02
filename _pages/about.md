@@ -66,7 +66,8 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - An idealized test is designed for projection purpose. 
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
   - [GitHub](https://github.com/ShihengDuan/Streamflow)
-
+{: reversed="reversed"}
+## Co-Author
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
   - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University. 
