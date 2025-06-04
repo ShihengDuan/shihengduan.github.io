@@ -75,7 +75,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University. 
 {: reversed="reversed"}
 
-* in preparation
+## in preparation
   - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2024
     - Storyline simulation using regional-refined model for Beijing storm 2023
     - The double tropical cyclone is a unique feature. 
@@ -90,6 +90,9 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). An overview/description paper of ForceSMIP is in preparation. 
     - Revision. 
+  
+  - On the Forced Changes in Extreme Rainfall Events. Céline Bonfils, Shiheng Duan, Margot Bador, Giuliana Pallotta, Gavin Madakumbura. 2025
+    - Understanding the Evolving Patterns of Extreme Rainfall.
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
