@@ -76,12 +76,12 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 {: reversed="reversed"}
 
 ## in preparation
-  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2024
+  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
     - Storyline simulation using regional-refined model for Beijing storm 2023
     - The double tropical cyclone is a unique feature. 
     - Under Review
 
-  - [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2024
+  - [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2025
     - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
     - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
     - In Revision. 
@@ -91,8 +91,9 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). An overview/description paper of ForceSMIP is in preparation. 
     - Revision. 
   
-  - On the Forced Changes in Extreme Rainfall Events. Céline Bonfils, Shiheng Duan, Margot Bador, Giuliana Pallotta, Gavin Madakumbura. 2025
-    - Understanding the Evolving Patterns of Extreme Rainfall.
+  - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
+    - Forced changes on extreme precipitation (rx1day, rx5day). 
+    - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
