@@ -38,7 +38,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 # 📝 Publications
 ## First-Author
 
-1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2025
+1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025
     - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
     - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
     - Accepted. 
