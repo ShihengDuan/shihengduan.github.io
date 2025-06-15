@@ -38,6 +38,11 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 # 📝 Publications
 ## First-Author
 
+1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2025
+    - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
+    - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
+    - Accepted. 
+
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
@@ -81,19 +86,18 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - The double tropical cyclone is a unique feature. 
     - Under Review
 
-  - [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) Shiheng Duan, et al. 2025
-    - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
-    - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
-    - In Revision. 
   
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
-    - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). An overview/description paper of ForceSMIP is in preparation. 
+    - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
     - Revision. 
   
   - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
     - Forced changes on extreme precipitation (rx1day, rx5day). 
     - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
+
+  - Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP). Robert Wills, et al. 2025
+    - Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
 
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
