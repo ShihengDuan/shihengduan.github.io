@@ -40,7 +40,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025
     - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
-    - How do we nudge? A relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
+    - How do we nudge? For stochastic ensembles, we introduce _ensemble involution_. For determinstic version, we follow the traditional nudging tendency and there is a relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
     - Accepted. 
 
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
@@ -48,27 +48,24 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability indices, as a technical note. 
-  - [GitHub](https://github.com/ShihengDuan/ClimateVariabilityStreamflow)
-
+  
 1. [Meteorological drivers of North American monsoon extreme precipitation events](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD040535) 
 **Shiheng Duan**, Paul Ullrich, William Boos. 2024
   - North American Monsoon area is delineated from a gridded precpitation dataset, and further divded into seven subregions with distinct precipitation characteristics. 
   - The meteorological drivers are identified for extreme precpitation events (p95) for each subregion. 
   - The interaction effects of these meteorological drivers on EPE probability are analyzed. 
-  - [GitHub](https://github.com/ShihengDuan/NorthAmericanMonsoon)
-
+  
 1. [Using temporal deep learning models to estimate daily snow water equivalent over the Rocky Mountains](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR035009)
 **Shiheng Duan**, Paul Ullrich, Mark Risser, Alan Rhoades. 2024
-  - LSTM, TCNN and Transformer models are benchmarked with in-situ snow observations. 
+  - LSTM, TCNN and Transformer models are benchmarked with in-situ SNOTEL observations. 
   - A transformation (SWE to SWE ratio) is applied to extrapolate the DL models to generate gridded SWE estimations. 
-  - This technique can be used for climate projections (deleted after peer-review). 
-  - [GitHub](https://github.com/ShihengDuan/code-SWE)
+  - This technique can be used for climate projections (deleted after peer-review). Some results are available [here](https://essopenarchive.org/doi/full/10.1002/essoar.10509011.1). 
+
 
 1. [Using convolutional neural networks for streamflow projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu. 2020
   - TCNN can be used for hydrological modelling, in addition to LSTM. 
   - An idealized test is designed for projection purpose. 
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
-  - [GitHub](https://github.com/ShihengDuan/Streamflow)
 {: reversed="reversed"}
 ## Co-Author
 1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
@@ -86,12 +83,11 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - The double tropical cyclone is a unique feature. 
     - Under Review
 
-  
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
     - Revision. 
-  
+
   - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
     - Forced changes on extreme precipitation (rx1day, rx5day). 
     - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
@@ -107,6 +103,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 
 # 💬 Talks
+- *2024.06*, Higher-order internal modes of variability imprinted in year-to-year California streamflow changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
 - *2024.06*, Detection of Anthropogenic Signals in Western US Snowpack Changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
 - *2022.12*, [AutoML-based Almond Yield Prediction and Projection in California.](https://arxiv.org/abs/2211.03925) Tackling Climate Change with Machine Learning: workshop at NeurIPS 2022. 
 - *2021.12*, A Comprehensive Investigation of Machine Learning Models for Estimating Daily Snow Water Equivalent over the Western US. AGU fall meeting. New Orleans, LA. 
@@ -116,6 +113,6 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 My daughter, Lumina Duan, was born on March 19th 2025 🎉🎉 
 
-My wedding [video](https://www.bilibili.com/video/BV1ht421b7GN/?spm_id_from=333.337.search-card.all.click), 2023 Christmas. 
+My wedding [video](https://www.bilibili.com/video/BV1ht421b7GN/?spm_id_from=333.337.search-card.all.click), 2023 Christmas in China. 
 
-My piano [video](https://www.bilibili.com/video/BV1Je411W7L7/?spm_id_from=333.999.0.0) when I was 12 year-old. 
+My piano [video](https://www.bilibili.com/video/BV1Je411W7L7/?spm_id_from=333.999.0.0) when I was 12 years old. 
