@@ -92,7 +92,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Forced changes on extreme precipitation (rx1day, rx5day). 
     - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
 
-  - Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP). Robert Wills, et al. 2025
+  - [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2025
     - Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
 
 # 🎖 Honors and Awards
