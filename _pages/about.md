@@ -38,10 +38,9 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 # 📝 Publications
 ## First-Author
 
-1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://arxiv.org/abs/2410.09120) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025
+1. [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://www.nature.com/articles/s41612-025-01137-2) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025
     - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
     - How do we nudge? For stochastic ensembles, we introduce _ensemble involution_. For determinstic version, we follow the traditional nudging tendency and there is a relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
-    - Accepted. 
 
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
   - Higher-order EOF modes are derived from the well-known climate variability domains. 
