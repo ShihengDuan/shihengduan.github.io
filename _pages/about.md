@@ -67,6 +67,11 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
 {: reversed="reversed"}
 ## Co-Author
+1. [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
+  - Storyline simulation using regional-refined model for Beijing storm 2023
+  - The double tropical cyclone is a unique feature. 
+  - Preprint.
+  
 1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
   - How do we evaluate ML-based Earth system models?  
   - More detailed following studies. 
@@ -77,10 +82,6 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 {: reversed="reversed"}
 
 ## in preparation
-  - [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
-    - Storyline simulation using regional-refined model for Beijing storm 2023
-    - The double tropical cyclone is a unique feature. 
-    - Under Review
 
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
