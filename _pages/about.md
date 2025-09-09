@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. 
+I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. My broader goal is to integrate AI and climate science to improve prediction, risk assessment, and climate adaptation strategies. 
 
 
 # 📖 Educations
@@ -43,7 +43,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - How do we nudge? For stochastic ensembles, we introduce _ensemble involution_. For determinstic version, we follow the traditional nudging tendency and there is a relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
 
 1. [Higher-order internal modes of variability imprinted in year-to-year California streamflow changes](https://www.nature.com/articles/s43247-024-01594-2) **Shiheng Duan**, Giuliana Pallotta, Céline Bonfils. 2024
-  - Higher-order EOF modes are derived from the well-known climate variability domains. 
+  - Higher-order EOF modes are derived from the well-known climate variability domains with [PMP](https://pcmdi.github.io/pcmdi_metrics/). 
   - The BCSD-CMIP6-LSTM streamflow projections are quantitatively related with internal variability indices using various ML models. 
   - All the ML models show PNA-5 is the most dominant pattern affecting streamflow in California, which looks like an atmospheric-river pattern. 
   - BCSD does not change variability indices, as a technical note. 
@@ -91,10 +91,16 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
     - Forced changes on extreme precipitation (rx1day, rx5day). 
     - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
+    - Revision. 
 
   - [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2025
     - Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
-
+    - Revision. 
+  - A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
+    - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models. 
+    - I have conducted AMIP-type simulation with NeuralGCM and ACE2. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP). 
+    - Apply PMP metrics. 
+    
 # 🎖 Honors and Awards
 - *2020.06* UC Davis Summer GSR Award. 
 - *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. 3000 for research expenses (got a GPU on Tempest) and 1000 personal stipend.  
