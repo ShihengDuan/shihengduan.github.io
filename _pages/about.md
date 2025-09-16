@@ -75,6 +75,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
   - How do we evaluate ML-based Earth system models?  
   - More detailed following studies. 
+  - FY25 PLS Summer Award. 
 
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
