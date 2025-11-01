@@ -22,7 +22,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 # 📖 Educations
 - *2017.09 - 2022.08*, Ph.D. in Atmospheric Science. University of California, Davis. 
-- *2016.08 - 2016.12*, Exchange student, University of Oklahoma. 
+- *2016.08 - 2016.12*, Exchange student. University of Oklahoma. 
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💼 Work Experience
@@ -75,7 +75,6 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 1. [Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496) Paul Ullrich, et al. 2025
   - How do we evaluate ML-based Earth system models?  
   - More detailed following studies. 
-  - FY25 PLS Summer Award. 
 
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
@@ -87,7 +86,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
-    - Revision. 
+    - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under consideration at Communications Earth & Environment. 
 
   - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
     - Forced changes on extreme precipitation (rx1day, rx5day). 
@@ -95,14 +94,16 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
     - Revision. 
 
   - [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2025
-    - Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
+    - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
     - Revision. 
+  
   - A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
     - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models. 
-    - I have conducted AMIP-type simulation with NeuralGCM and ACE2. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP). 
+    - I have conducted AMIP-type simulation with NeuralGCM (original version and precipitation models) and ACE2-ERA5. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP). 
     - Apply PMP metrics. 
     
 # 🎖 Honors and Awards
+- *2025.09* PLS FY25 Summer Directorate Award - Publication
 - *2020.06* UC Davis Summer GSR Award. 
 - *2020.02* Walter and Margaret Milton Graduate Atmospheric Science Award. 3000 for research expenses (got a GPU on Tempest) and 1000 personal stipend.  
 - *2016.06* Beijing Normal University Second Prize Scholarship
@@ -118,7 +119,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 
 # 🎹 Life
 
-My daughter, Lumina Duan, was born on March 19th 2025 🎉🎉   
+My daughter, Lumina Duan, was born in March 2025 🎉🎉   
 
 My father, an artist, likes to make [music videos](https://www.bilibili.com/video/BV1KZ421B7uB?spm_id_from=333.788.videopod.sections&vd_source=0c17b8138080aa025465aa1df1a15014) by himself.    
 
