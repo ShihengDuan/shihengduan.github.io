@@ -26,7 +26,7 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
 - *2013.09 - 2017.06*, Bachelor in Environment Engineering. Beijing Normal University. 
 
 # 💼 Work Experience
-- *2022.09 - current*, Postdoctoral researcher @ LLNL
+- *2022.09 - 2025.11*, Postdoctoral researcher @ LLNL
 - *2017.09 - 2022.08*, Graduate student researcher @ UC Davis 
 
 <!---
