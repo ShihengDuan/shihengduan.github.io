@@ -67,6 +67,10 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
 {: reversed="reversed"}
 ## Co-Author
+1. [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2026
+    - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
+    - Accepted. 
+
 1. [Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
   - Storyline simulation using regional-refined model for Beijing storm 2023
   - The double tropical cyclone is a unique feature. 
@@ -86,16 +90,13 @@ I am currently a postdoctoral researcher at Lawrence Livermore National Laborato
   - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     - Detect forced precipitation changes without any spatial or temporal aggregation. 
     - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
-    - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under consideration at Communications Earth & Environment. 
+    - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under revision at Communications Earth & Environment. 
 
   - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
     - Forced changes on extreme precipitation (rx1day, rx5day). 
     - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
     - Revision. 
 
-  - [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2025
-    - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
-    - Revision. 
   
   - A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
     - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models. 
