@@ -1,12 +1,14 @@
 /* Vertical Timeline Styles */
-.timeline {
+#main .timeline {
   position: relative;
   max-width: 1200px;
   margin: 2em 0;
   padding-left: 20px;
+  list-style: none;
+  /* In case it's rendered as a list */
 }
 
-.timeline::after {
+#main .timeline::after {
   content: '';
   position: absolute;
   width: 2px;
@@ -15,16 +17,19 @@
   bottom: 0;
   left: 30px;
   margin-left: -3px;
+  z-index: 0;
 }
 
-.timeline-item {
+#main .timeline-item {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
+  background-color: transparent;
   width: 100%;
+  margin-bottom: 20px;
+  display: block;
 }
 
-.timeline-item::after {
+#main .timeline-item::after {
   content: '';
   position: absolute;
   width: 12px;
@@ -38,26 +43,32 @@
   box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
 }
 
-.timeline-content {
+#main .timeline-content {
   padding: 0 10px;
+  position: relative;
+  z-index: 1;
 }
 
-.timeline-date {
+#main .timeline-date {
   font-size: 0.9em;
   font-weight: 600;
   color: #64748b;
   margin-bottom: 4px;
+  display: block;
 }
 
-.timeline-title {
+#main .timeline-title {
   font-size: 1.1em;
   font-weight: 700;
   color: #1e293b;
   margin: 0;
+  display: block;
+  line-height: 1.4;
 }
 
-.timeline-subtitle {
+#main .timeline-subtitle {
   font-size: 1em;
   color: #475569;
   margin-top: 2px;
+  display: block;
 }
