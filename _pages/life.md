@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Life"
+layout: default
+title: ""
 permalink: /life/
 author_profile: true
 ---

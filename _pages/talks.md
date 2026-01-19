@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Talks"
+layout: default
+title: ""
 permalink: /talks/
 author_profile: true
 ---
