@@ -8,7 +8,7 @@ author_profile: true
 # 📝 Publications
 ## First-Author
 
-<ol reversed>
+<ol reversed markdown="1">
   <li>[Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://www.nature.com/articles/s41612-025-01137-2) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025 <span class="show_paper_citations" data="OymODQIAAAAJ:kzf_9_Tf2U8C"></span>
       <ul>
           <li>Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave</li>
@@ -54,7 +54,7 @@ author_profile: true
 
 ## Co-Author
 
-<ol reversed>
+<ol reversed markdown="1">
   <li>[Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2026
       <ul>
           <li>How to separate forced signal from single realization? Hackathon paper from <a href="https://sites.google.com/ethz.ch/forcesmip/">ForceSMIP</a>.</li>
@@ -87,7 +87,7 @@ author_profile: true
 
 ## in preparation
 
-<ol reversed>
+<ol reversed markdown="1">
   <li>Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
     <ul>
       <li>Detect forced precipitation changes without any spatial or temporal aggregation.</li>
