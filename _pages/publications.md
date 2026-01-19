@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 # 📝 Publications
 ## First-Author
 
@@ -37,12 +30,11 @@ author_profile: true
   - A transformation (SWE to SWE ratio) is applied to extrapolate the DL models to generate gridded SWE estimations. 
   - This technique can be used for climate projections (deleted after peer-review). Some results are available [here](https://essopenarchive.org/doi/full/10.1002/essoar.10509011.1). 
 
-
 1. [Using convolutional neural networks for streamflow projection in California](https://www.frontiersin.org/journals/water/articles/10.3389/frwa.2020.00028/full) **Shiheng Duan**, Paul Ullrich, Lele Shu. 2020
   - TCNN can be used for hydrological modelling, in addition to LSTM. 
   - An idealized test is designed for projection purpose. 
   - A "nonlinear" relationship of precipitation-runoff is revealed from DL models for snow-dominant basins. 
-{: reversed="reversed"}
+
 ## Co-Author
 1. [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2026
     - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/). 
@@ -60,22 +52,20 @@ author_profile: true
 1. [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
   - A comprehensive emission inventory of air pollutants. 
   - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University. 
-{: reversed="reversed"}
 
 ## in preparation
 
-  - Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
-    - Detect forced precipitation changes without any spatial or temporal aggregation. 
-    - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
-    - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under revision at Communications Earth & Environment. 
+- Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
+  - Detect forced precipitation changes without any spatial or temporal aggregation. 
+  - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).  
+  - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under revision at Communications Earth & Environment. 
 
-  - Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
-    - Forced changes on extreme precipitation (rx1day, rx5day). 
-    - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
-    - Revision. 
+- Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
+  - Forced changes on extreme precipitation (rx1day, rx5day). 
+  - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation). 
+  - Revision. 
 
-  
-  - A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
-    - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models. 
-    - I have conducted AMIP-type simulation with NeuralGCM (original version and precipitation models) and ACE2-ERA5. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP). 
-    - Apply PMP metrics. 
+- A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
+  - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models. 
+  - I have conducted AMIP-type simulation with NeuralGCM (original version and precipitation models) and ACE2-ERA5. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP). 
+  - Apply PMP metrics. 
