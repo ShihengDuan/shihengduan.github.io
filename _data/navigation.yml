@@ -10,17 +10,13 @@ main:
     url: "/#-work-experience"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  
+    url: "/honors/"
 
   - title: "Talks"
-    url: "/#-talks"
+    url: "/talks/"
 
   - title: "Life"
-    url: "/#-life"
-  # - title: "Internships"
-  #   url: "/#-internships"
+    url: "/life/"
