@@ -8,9 +8,6 @@ author_profile: true
 # 📝 Publications
 ## First-Author
 
-# 📝 Publications
-## First-Author
-
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
 [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://www.nature.com/articles/s41612-025-01137-2) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025 <span class="show_paper_citations" data="OymODQIAAAAJ:kzf_9_Tf2U8C"></span>
