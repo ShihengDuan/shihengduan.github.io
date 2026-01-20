@@ -17,4 +17,4 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at Lawrence Livermore National Laboratory. My research focuses on the hydroclimate system, climate change impacts, detection and attribution (D&A), and extreme events. I use machine learning and deep learning to study climate, as well as simulations from climate models. My broader goal is to integrate AI and climate science to improve prediction, risk assessment, and climate adaptation strategies. 
+I am an Atmospheric Scientist dedicated to bridging the gap between climate research and scalable AI solutions. My research focuses on the hydroclimate system, where I leverage machine learning and deep learning to investigate climate change impacts and advance the detection and attribution (D&A) of extreme events. By integrating physical insights from climate simulations with state-of-the-art AI techniques, I develop robust frameworks for prediction, risk assessment, and adaptation strategies. My work aims to provide actionable intelligence that serves both rigorous academic inquiry and high-stakes industry applications. 
