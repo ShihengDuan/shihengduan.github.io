@@ -51,14 +51,7 @@ author_profile: true
 <li markdown="1">
 [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0326.1/JCLI-D-25-0326.1.xml). Robert Wills, et al. 2026
 - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
-- Accepted.
-</li>
-
-<li markdown="1">
-[Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
-- Storyline simulation using regional-refined model for Beijing storm 2023
-- The double tropical cyclone is a unique feature.
-- Preprint.
+- We contributed two pattern-based fingerprinting methods.
 </li>
 
 <li markdown="1">
@@ -71,6 +64,13 @@ author_profile: true
 [Atmospheric emission inventory of hazardous air pollutants from China's cement plants: Temporal trends, spatial variation characteristics and scenario projections](https://www.sciencedirect.com/science/article/pii/S1352231015306385) Shenbing Hua, et al. 2016
 - A comprehensive emission inventory of air pollutants.
 - More inventory and air pollution studies from [Prof. Tian's team](https://envfaculty.bnu.edu.cn/Public/htm/news/5/107.html) in Beijing Normal University.
+</li>
+
+<li markdown="1">
+[Through the lens of a kilometer-scale climate model: 2023 Jing-Jin-Ji flood under climate change](https://www.authorea.com/doi/full/10.22541/au.172773252.24608967) Jishi Zhang, et al. 2025
+- Storyline simulation using regional-refined model for Beijing storm 2023
+- The double tropical cyclone is a unique feature.
+- Preprint.
 </li>
 </ol>
 
