@@ -49,7 +49,7 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
-[Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://essopenarchive.org/doi/full/10.22541/essoar.175003371.14843115/v1). Robert Wills, et al. 2026
+[Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0326.1/JCLI-D-25-0326.1.xml). Robert Wills, et al. 2026
 - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
 - Accepted.
 </li>
