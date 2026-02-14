@@ -10,6 +10,13 @@ author_profile: true
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-content">
+      <div class="timeline-date">2026.02 - </div>
+      <div class="timeline-title">Atmospheric Scientist</div>
+      <div class="timeline-subtitle">Gridmatic</div>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-content">
       <div class="timeline-date">2022.09 - 2025.11</div>
       <div class="timeline-title">Postdoctoral researcher</div>
       <div class="timeline-subtitle">Lawrence Livermore National Laboratory (LLNL)</div>
