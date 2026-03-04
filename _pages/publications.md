@@ -49,6 +49,13 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
+Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
+- Forced changes on extreme precipitation (rx1day, rx5day).
+- How does model resolution, ECS affect the signal detection? 
+- A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation).
+</li>
+
+<li markdown="1">
 [Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-25-0326.1/JCLI-D-25-0326.1.xml). Robert Wills, et al. 2026
 - How to separate forced signal from single realization? Hackathon paper from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
 - We contributed two pattern-based fingerprinting methods.
@@ -82,13 +89,6 @@ Towards enhanced detectability of forced signals in monthly rainfall changes. Sh
 - Detect forced precipitation changes without any spatial or temporal aggregation.
 - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
 - Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now under revision at Communications Earth & Environment.
-</li>
-
-<li markdown="1">
-Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
-- Forced changes on extreme precipitation (rx1day, rx5day).
-- A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation).
-- Revision.
 </li>
 
 <li markdown="1">
