@@ -92,7 +92,7 @@ Towards enhanced detectability of forced signals in monthly rainfall changes. Sh
 </li>
 
 <li markdown="1">
-A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models. Giuliana Pallotta, et al. 2025
+[A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models](https://arxiv.org/abs/2604.06567) Giuliana Pallotta, et al. 2025
 - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models.
 - I have conducted AMIP-type simulation with NeuralGCM (original version and precipitation models) and ACE2-ERA5. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP).
 - Apply PMP metrics.
