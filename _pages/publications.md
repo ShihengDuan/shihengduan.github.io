@@ -49,7 +49,7 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
-Understanding the Evolving Patterns of Extreme Rainfall. Céline Bonfils, et al. 2025
+[Understanding the Evolving Patterns of Extreme Rainfall](https://www.nature.com/articles/s43247-026-03516-w) Céline Bonfils, et al. 2025
 - Forced changes on extreme precipitation (rx1day, rx5day).
 - How does model resolution, ECS affect the signal detection? 
 - A related [video](https://pacificclimate.org/~IMSC/4-Thursday/1-Plenaries/Bonfils.mp4) introducing climate change signals in rainfall (from [mean precipitation](https://www.nature.com/articles/s41558-020-0821-1) to extreme precipitation).
