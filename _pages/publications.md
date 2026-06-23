@@ -10,6 +10,13 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
+Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2026 (in press)
+- Detect forced precipitation changes without any spatial or temporal aggregation.
+- Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
+- Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now accepted at Communications Earth & Environment.
+</li>
+
+<li markdown="1">
 [Testing NeuralGCM's capability to simulate future heatwaves based on the 2021 Pacific Northwest heatwave event](https://www.nature.com/articles/s41612-025-01137-2) **Shiheng Duan**, Jishi Zhang, Céline Bonfils, Giuliana Pallotta. 2025 <span class="show_paper_citations" data="OymODQIAAAAJ:kzf_9_Tf2U8C"></span>
 - Could NeuralGCM effectively simulate future heatwaves? A case study based on the 2021 Pacific Northwest heatwave
 - How do we nudge? For stochastic ensembles, we introduce _ensemble involution_. For determinstic version, we follow the traditional nudging tendency and there is a relevant GitHub [issue](https://github.com/neuralgcm/neuralgcm/issues/247).
@@ -84,13 +91,6 @@ author_profile: true
 ## in preparation
 
 <ol reversed markdown="1" style="padding-left: 20px;">
-<li markdown="1">
-Towards enhanced detectability of forced signals in monthly rainfall changes. Shiheng Duan, et al. 2025
-- Detect forced precipitation changes without any spatial or temporal aggregation.
-- Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
-- Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now accepted at Communications Earth & Environment.
-</li>
-
 <li markdown="1">
 [A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models](https://arxiv.org/abs/2604.06567) Giuliana Pallotta, et al. 2025
 - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models.
