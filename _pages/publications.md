@@ -10,10 +10,10 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
-Enhanced detectability of forced signal in monthly precipitation changes. Shiheng Duan, et al. 2026 (in press)
-- Detect forced precipitation changes without any spatial or temporal aggregation.
+[Enhanced detectability of forced signal in monthly precipitation changes](https://www.nature.com/articles/s43247-026-03684-9) **Shiheng Duan**, Céline Bonfils, Jia-Rui Shi. 2026 
+- Detect forced monthly precipitation changes without any spatial or temporal aggregation.
 - Work from [ForceSMIP](https://sites.google.com/ethz.ch/forcesmip/).
-- Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. Now accepted at Communications Earth & Environment.
+- Rejected by Nature Climate Change, Nature Communications, One Earth (after 5-month revision, rejected without sending back to reviewers), PNAS. 
 </li>
 
 <li markdown="1">
