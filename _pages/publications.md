@@ -92,9 +92,14 @@ author_profile: true
 
 <ol reversed markdown="1" style="padding-left: 20px;">
 <li markdown="1">
-[A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models](https://arxiv.org/abs/2604.06567) Giuliana Pallotta, et al. 2025
+[A PMP-Inspired Evaluation Framework for Assessing the fit-for-purpose of Deep-Learning Weather Prediction Models](https://arxiv.org/abs/2604.06567) Pallotta et al. 2026
 - Using PMP to diagnose and compare DL-ESMs with traditional CMIP6 models.
 - I have conducted AMIP-type simulation with NeuralGCM (original version and precipitation models) and ACE2-ERA5. The output is CMORized following the [PCMDI code](https://github.com/PCMDI/AI-MIP).
 - Apply PMP metrics.
+</li>
+
+<li markdown="1">
+[Multi-Model Comparison of Atmospheric River Flood Simulations in the Russian River Basin](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3064/) Wu et al. 2026
+- Flooding simulation in the Russian River basin using different hydrological models. 
 </li>
 </ol>
