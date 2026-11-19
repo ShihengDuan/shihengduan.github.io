@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 💬 Talks
-- *2026.12*, Stabilizing Long-Range Autoregressive AI Weather Forecasts with Large-scale Nudging. AGU fall meeting, San Francisco, CA (invited)
+- *2026.12*, Stabilizing Long-Range Autoregressive AI Weather Forecasts with Large-scale Nudging. AGU Fall meeting, San Francisco, CA (invited)
 - *2025.12*, AI-based climate model evaluation through the lens of pseudo-global warming storylines. AGU Fall meeting. New Orleans, LA (online). 
 - *2024.06*, Higher-order internal modes of variability imprinted in year-to-year California streamflow changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
 - *2024.06*, Detection of Anthropogenic Signals in Western US Snowpack Changes. $15^{th}$ International Meeting on Statistical Climatology. Toulouse, France. 
